@@ -32,7 +32,7 @@ This project demonstrates AI learning **efficiently from few samples**, detectin
 - All outputs saved in the `images/` folder
 
 **Example Grad-CAM Visualization:**  
-![Grad-CAM Example](images/gradcam_class0.png)  
+![Grad-CAM Example](images/gradcam_class[0].png)  
 
 **Prediction Confidence Histogram:**  
 ![Confidence Histogram](images/confidence_hist.png)  
